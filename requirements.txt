@@ -4,3 +4,4 @@ matplotlib==3.11.2
 seaborn==0.13.2
 scikit-learn==1.9.1
 xgboost==3.4.1
+streamlit==1.67.0
